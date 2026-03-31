@@ -17,12 +17,12 @@ All five tasks are organized into separate folders, along with a structured proj
 
 ## Repository Structure
 report
-task-1-presentation
-task-2-portfolio
-task-3-platforms
-task-4-email-etiquette
-task-5-cybercrime
-readme
+- task-1-presentation
+- task-2-portfolio
+- task-3-platforms
+- task-4-email-etiquette
+- task-5-cybercrime
+- readme
 ---
 
 ## Important Links
