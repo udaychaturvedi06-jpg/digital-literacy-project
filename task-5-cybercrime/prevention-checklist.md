@@ -18,9 +18,9 @@
 -   Avoid using public Wi-Fi for banking or financial transactions\
 -   Regularly check your bank statements for unauthorized transactions\
 -   Set transaction limits and enable SMS/email alerts for payments\
--   Do not save card details on unknown or untrusted websites\
+-   Verify the receiver’s UPI ID/name before sending money\
 -   Never enter your UPI PIN to receive money --- it is only required
-    for sending money
+    for sending money\   
 
 ## 🌐 Responsible Online Behavior
 
