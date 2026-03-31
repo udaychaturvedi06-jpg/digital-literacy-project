@@ -1,6 +1,6 @@
 # Stay Safe Online -- Prevention Checklist
 
-## 🔐 General Safety Tips
+##  General Safety Tips
 
 -   Always verify unknown links, emails, or messages before clicking
 -   Avoid sharing personal information (address, OTP, passwords) online
@@ -9,7 +9,7 @@
 -   Do not download apps or files from untrusted sources
 -   Be cautious of urgent or "too good to be true" offers
 
-## 💳 Financial / Banking Safety
+##  Financial / Banking Safety
 
 -   Never share your OTP, CVV, ATM PIN, or net banking credentials with
     anyone
@@ -22,13 +22,13 @@
 -   Never enter your UPI PIN to receive money, it is only required
     for sending money   
 
-## 🌐 Responsible Online Behavior
+##  Responsible Online Behavior
 
 -   Think before posting; your digital footprint is permanent
 -   Avoid engaging in suspicious links, fake giveaways, or scams
 -   Keep your apps and devices updated for better security
 
-## 🚨 Reporting Cybercrime
+##  Reporting Cybercrime
 
 -   Report fraud immediately at: https://cybercrime.gov.in
 -   Call Cyber Crime Helpline: 1930
