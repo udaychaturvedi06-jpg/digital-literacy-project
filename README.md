@@ -33,29 +33,29 @@ All five tasks are organized into separate folders, along with a structured proj
 
 ## Task Summaries
 
-### 📊 Task 1 – Digital Literacy Infographic
+###  Task 1 – Digital Literacy Infographic
 Designed an infographic using Canva to explain key digital literacy concepts such as online safety, useful digital tools, and maintaining a professional online presence in a visually engaging way.
 
 ---
 
-### 💼 Task 2 – Student Digital Portfolio
+###  Task 2 – Student Digital Portfolio
 Created and optimized profiles on platforms like GitHub, LinkedIn, and Stack Overflow to establish a strong professional digital identity and showcase skills and projects.
 
 - **LinkedIn:** www.linkedin.com/in/uday-deval-chaturvedi-3147a8148
 
 ---
 
-### 💻 Task 3 – Coding & Collaboration Platforms
+###  Task 3 – Coding & Collaboration Platforms
 Completed a beginner-level coding task and designed a Google Form quiz to spread awareness about digital literacy. Also explored how platforms like GitHub support collaboration and version control.
 
 ---
 
-### 📧 Task 4 – Email Etiquette
+###  Task 4 – Email Etiquette
 Drafted professional emails and created a social media checklist to understand proper communication in academic and professional environments.
 
 ---
 
-### 🔐 Task 5 – Cybercrime Awareness
+###  Task 5 – Cybercrime Awareness
 Studied UPI fraud and developed a detailed case study along with a prevention checklist to promote safe and responsible online practices.
 
 ---
